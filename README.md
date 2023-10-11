@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tom Nguyen
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning the basics of HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on any beginner friendly projects
+- 🌱 I’m currently learning the basics of HTML, CSS, and Javascript with 100Devs bootcamp taught by Leon Noel (https://www.youtube.com/@learnwithleon)
+- 💞️ I’m looking to collaborate on any beginner-friendly projects to build my portfolio
 - 📫 How to reach me via [LinkedIn] (https://www.linkedin.com/in/tmnguyen0714/)
 
 <!---

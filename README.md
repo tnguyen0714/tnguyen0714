@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom Nguyen
-- 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning the basics of HTML, CSS, and Javascript with 100Devs with other developers led by Leon Noel (https://www.youtube.com/@learnwithleon)
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently programming HTML, CSS, and Javascript with 100Devs with other developers led by Leon Noel (https://www.youtube.com/@learnwithleon)
 - 📫 How to reach me via [LinkedIn] (https://www.linkedin.com/in/tmnguyen0714/)
 
 <!---
